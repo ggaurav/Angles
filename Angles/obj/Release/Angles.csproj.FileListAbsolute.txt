@@ -1,0 +1,13 @@
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\Bin\Release\ApplicationIcon.png
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\Bin\Release\Background.png
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\Bin\Release\Angles.dll
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\Bin\Release\Angles.pdb
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\Bin\Release\AppManifest.xaml
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\Bin\Release\Angles.xap
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\ResolveAssemblyReference.cache
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\App.g.i.cs
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\MainPage.g.i.cs
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\Angles.g.resources
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\Angles.dll
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\Angles.pdb
+C:\Users\miky\Documents\Visual Studio 2010\Projects\Angles\Angles\obj\Release\XapCacheFile.xml

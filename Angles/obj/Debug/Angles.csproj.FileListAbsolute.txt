@@ -1,0 +1,13 @@
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\Bin\Debug\ApplicationIcon.png
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\Bin\Debug\Background.png
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\Bin\Debug\Angles.dll
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\Bin\Debug\Angles.pdb
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\Bin\Debug\AppManifest.xaml
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\Bin\Debug\Angles.xap
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\ResolveAssemblyReference.cache
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\App.g.i.cs
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\MainPage.g.i.cs
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\Angles.g.resources
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\Angles.dll
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\Angles.pdb
+c:\users\miky\documents\visual studio 2010\Projects\Angles\Angles\obj\Debug\XapCacheFile.xml
